@@ -1,6 +1,6 @@
 module github.com/warm-metal/container-image-csi-driver
 
-go 1.19
+go 1.24
 
 require (
 	github.com/BurntSushi/toml v1.2.0
@@ -76,7 +76,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.15.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
 	github.com/kubernetes-csi/csi-lib-utils v0.9.1 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
